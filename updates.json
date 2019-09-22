@@ -1,0 +1,82 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 892066489,
+      "message": {
+        "from": {
+          "is_bot": false,
+          "last_name": "Бовгиря",
+          "first_name": "Андрій",
+          "language_code": "en",
+          "id": 665126646
+        },
+        "entities": [
+          {
+            "offset": 0,
+            "type": "bot_command",
+            "length": 6
+          }
+        ],
+        "text": "/start",
+        "message_id": 1,
+        "chat": {
+          "last_name": "Бовгиря",
+          "type": "private",
+          "first_name": "Андрій",
+          "id": 665126646
+        },
+        "date": 1569092959
+      }
+    },
+    {
+      "update_id": 892066490,
+      "message": {
+        "from": {
+          "is_bot": false,
+          "last_name": "Бовгиря",
+          "first_name": "Андрій",
+          "language_code": "en",
+          "id": 665126646
+        },
+        "entities": [
+          {
+            "offset": 0,
+            "type": "bot_command",
+            "length": 6
+          }
+        ],
+        "text": "/start",
+        "message_id": 2,
+        "chat": {
+          "last_name": "Бовгиря",
+          "type": "private",
+          "first_name": "Андрій",
+          "id": 665126646
+        },
+        "date": 1569092961
+      }
+    },
+    {
+      "update_id": 892066491,
+      "message": {
+        "from": {
+          "is_bot": false,
+          "last_name": "Бовгиря",
+          "first_name": "Андрій",
+          "language_code": "en",
+          "id": 665126646
+        },
+        "message_id": 4,
+        "date": 1569094868,
+        "text": "Бодя залупка",
+        "chat": {
+          "last_name": "Бовгиря",
+          "type": "private",
+          "first_name": "Андрій",
+          "id": 665126646
+        }
+      }
+    }
+  ]
+}
